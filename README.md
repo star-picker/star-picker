@@ -1,4 +1,3 @@
 - Hi, I’m @star-picker
 - I’m interested in QQ group
 - I’m currently learning Python and HTML5
-- How to reach me ：mailto:m416royalhero@126.com
