@@ -1,3 +1,3 @@
 - Hi, I’m @star-picker
-- I’m interested in QQ group
-- I’m currently learning Python and HTML5
+- I’m devoting to the ATOM X Project.
+- Please visit star-picker.github.io
