@@ -1,23 +1,36 @@
-### 中文
+<div align="center">
 
-你好，我是 **@starpicker**。
+# star-picker
 
-作为一名软件开发者，我目前专注于一个有趣的项目：一个 QQNT 数据库导出工具。这个项目的灵感和技术参考主要来自以下优秀开源项目：
+`embedded` · `firmware` · `reverse engineering` · `tooling`
 
-* **[Tealina28/QQNT\_Export](https://github.com/Tealina28/QQNT_Export?tab=readme-ov-file)**
-* **[QQBackup/qq-win-db-key](https://github.com/QQBackup/qq-win-db-key)**
-* **[https://docs.aaqwq.top/](https://docs.aaqwq.top/)**
+[个人主页 / homepage](https://star-picker.github.io/) · [公开仓库 / repositories](https://github.com/star-picker?tab=repositories)
 
-我致力于开发一个高效、易用的工具，帮助用户轻松导出他们的 QQNT 数据库，同时也在探索数据处理和应用集成方面的更多可能性。欢迎随时与我交流技术，或者关注我的项目进展。
+</div>
 
-### English
+---
 
-Hi there, I'm **@starpicker**.
+## 关于 / About
 
-I'm a software developer currently working on an exciting project: a QQNT database export tool. This project is heavily inspired by and references the following excellent open-source projects:
+低层折腾：嵌入式系统、固件与启动流程、逆向分析、以及把折腾过程做成趁手的小工具。
+偶尔写 Rust / C / Kotlin / Python。
 
-* **[Tealina28/QQNT\_Export](https://github.com/Tealina28/QQNT_Export?tab=readme-ov-file)**
-* **[QQBackup/qq-win-db-key](https://github.com/QQBackup/qq-win-db-key)**
-* **[https://docs.aaqwq.top/](https://docs.aaqwq.top/)**
+Builds small tools around embedded systems, firmware analysis, reverse engineering and
+desktop/mobile utilities. Mostly Rust / C / Kotlin / Python.
 
-My goal is to create an efficient and user-friendly tool that simplifies the process of exporting QQNT databases. I'm also exploring new possibilities in data processing and application integration. Feel free to connect with me to discuss technology or to follow my project's progress.
+## 公开项目 / Public projects
+
+- **[console-browser](https://github.com/star-picker/console-browser)** — 一个跑在终端里的浏览器，Rust 实现。
+- **[QQNT-Database-Export-Tool](https://github.com/star-picker/QQNT-Database-Export-Tool)** — 从已解密的 QQNT 数据库导出聊天记录（Python）。
+- **[oneplus13_a5p_sukisu](https://github.com/star-picker/oneplus13_a5p_sukisu)** — 设备内核/模块相关资源。
+
+更多见 [全部仓库](https://github.com/star-picker?tab=repositories)。
+
+## 研究笔记 / Research notes
+
+在 [个人主页](https://star-picker.github.io/) 的「研究笔记」栏目不定期更新：
+硬件调试、启动链路、固件分析之类的方法记录。
+
+---
+
+<sub>本页由 profile README 驱动；项目列表以公开仓库为准。</sub>
