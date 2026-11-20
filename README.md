@@ -22,7 +22,7 @@ desktop/mobile utilities. Mostly Rust / C / Kotlin / Python.
 
 - **[console-browser](https://github.com/star-picker/console-browser)** — 一个跑在终端里的浏览器，Rust 实现。
 - **[QQNT-Database-Export-Tool](https://github.com/star-picker/QQNT-Database-Export-Tool)** — 从已解密的 QQNT 数据库导出聊天记录（Python）。
-- **[oneplus13_a5p_sukisu](https://github.com/star-picker/oneplus13_a5p_sukisu)** — 设备内核/模块相关资源。
+- **[zilvdaren](https://github.com/star-picker/zilvdaren)** — TypeScript 小项目合集。
 
 更多见 [全部仓库](https://github.com/star-picker?tab=repositories)。
 
